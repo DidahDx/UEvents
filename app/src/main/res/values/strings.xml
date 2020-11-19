@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UEvents</string>
+    <string name="search">Search</string>
+    <string name="search_menu_title">Search</string>
+    <string name="skip">SKIP</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="user_name">User name</string>
+    <string name="view">VIEW</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="log_in">Login</string>
+    <string name="password">Password</string>
+</resources>

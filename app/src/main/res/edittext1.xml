@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android" android:insetTop="-1px"
+    android:insetBottom="-2px">
+    <selector>
+        <item android:state_pressed="true">
+            <shape android:shape="rectangle" />
+        </item>
+        <item>
+            <shape android:shape="rectangle">
+                <solid android:color="#63ffffff" />
+            </shape>
+        </item>
+    </selector>
+</inset>
